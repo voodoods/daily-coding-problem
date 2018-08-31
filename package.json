@@ -1,0 +1,23 @@
+{
+  "name": "daily-coding-problem",
+  "version": "1.0.0",
+  "description": "A repository with solutions for daily coding problems from dailycodingproblem.com",
+  "main": "index.js",
+  "repository": "git@github.com:voodoods/daily-coding-problem.git",
+  "author": "Norman Steger <me@normansteger.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "6.26.0",
+    "babel-eslint": "^8.2.1",
+    "babel-jest": "^22.2.2",
+    "babel-loader": "7.1.2",
+    "babel-plugin-resolver": "^1.1.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-runtime": "6.26.0",
+    "jest": "^23.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
