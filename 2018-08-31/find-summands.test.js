@@ -5,7 +5,7 @@ describe('find summands', () => {
     const list = [21, 49, 52, 89]
     const result = 73
     const actual = findSummands(list, result)
-    const expected = [21, 52] 
+    const expected = [21, 52]
 
     expect(actual).toEqual(expected)
   })
